@@ -1,19 +1,22 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
-    "bio": "Write 2 or 3 sentences about yourself.",
+    "name": "Kevin Geo Jose",
+    "tagline": "Not an expert yet, just an engineering student obsessed with emerging tech who learns best by getting hands dirty with actual implementations.",
+    "bio": "Curious C.S undergraduate interested in how code behaves under the hood and low-level systems. I am still early in my engineering journey and have no illusions about being an expert, but I learn best by building projects, reading documentation, and fixing what breaks along the way.",
     "skills": [
         "Git",
-        "HTML"
+        "HTML",
+        "Python",
+        "Java",
+        "C (basic)"
     ],
     "projects": [
         {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
+            "title": "J.A.V.A.M.E.D 2.0",
+            "desc": "Built as a semester coursework project to move beyond toy programs and understand desktop software architecture. It is an offline electronic medical records manager built with JavaFX and MySQL, handling patient data, billing, and record exports. Nothing groundbreaking, but it served as a practical sandbox for learning connection pooling with HikariCP, role-based access, and basic hardware authentication using a USB key.",
+            "link": "https://github.com/KevinGeo-7583/JAVAMED_2.0"
         }
     ],
     "links": {
-        "github": "https://github.com/yourname"
+        "github": "https://github.com/KevinGeo-7583"
     }
 }
